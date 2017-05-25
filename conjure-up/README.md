@@ -2,10 +2,13 @@
 k8s deploy for single host machine
 
 ## DEMO
+
+```
 sudo apt install ttyrec
 git clone https://github.com/konono/k8s_demo
 cd conjure-up/demo
 ttyplay conjure-up_k8s.tty
+```
 
 ### 前提
 Ubuntu 16.04 LTSの最新版がインストールされていること
